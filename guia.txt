@@ -12,4 +12,4 @@
 7) Crear carpetas components y pages dentro de src 
 8) crear los componentes principales header, main, footer y aplicar (rafce)
 9) crear las paginas 
-10) 
+10) 465465
