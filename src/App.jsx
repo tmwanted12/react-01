@@ -15,7 +15,8 @@ function App() {
   const [carrito, setCarrito] = useState([]);
   return (
     <>
-  
+
+        
       <BrowserRouter>
         <Header carrito={carrito} setCarrito={setCarrito}/>
           <Routes>
